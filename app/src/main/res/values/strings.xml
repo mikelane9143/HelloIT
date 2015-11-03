@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello, IT</string>
+    <string name="title_activity_main">Quote</string>
+    <string name="did_you_know">Did you know?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_Quote_Button">Show another flipping quote</string>
+    <string name="initial_Quote">Hello IT</string>
+    <string name="who_Said">Who said?</string>
+</resources>
+
