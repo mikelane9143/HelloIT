@@ -20,11 +20,10 @@
         android:layout_height="wrap_content"
         android:text="@string/initial_Quote"
         android:id="@+id/factTextView"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
         android:textSize="24sp"
         android:textColor="@android:color/white"
-        android:layout_centerInParent="true"/>
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
 
     <Button
         android:layout_width="match_parent"
